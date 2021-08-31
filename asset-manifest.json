@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kasrarv.github.io/csb-mlvgo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kasrarv.github.io/csb-mlvgo/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://kasrarv.github.io/csb-mlvgo/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://kasrarv.github.io/csb-mlvgo/static/js/runtime-main.98aa960e.js",
+    "runtime-main.js.map": "https://kasrarv.github.io/csb-mlvgo/static/js/runtime-main.98aa960e.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://kasrarv.github.io/csb-mlvgo/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://kasrarv.github.io/csb-mlvgo/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://kasrarv.github.io/csb-mlvgo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kasrarv.github.io/csb-mlvgo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://kasrarv.github.io/csb-mlvgo/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98aa960e.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
